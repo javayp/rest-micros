@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app-service/app-service.iml" filepath="$PROJECT_DIR$/app-service/app-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-resources/common-resources.iml" filepath="$PROJECT_DIR$/common-resources/common-resources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest-micro.iml" filepath="$PROJECT_DIR$/rest-micro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unified-service/unified-service.iml" filepath="$PROJECT_DIR$/unified-service/unified-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uuid-service/uuid-service.iml" filepath="$PROJECT_DIR$/uuid-service/uuid-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul-gateway/zuul-gateway.iml" filepath="$PROJECT_DIR$/zuul-gateway/zuul-gateway.iml" />
+    </modules>
+  </component>
+</project>
